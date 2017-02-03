@@ -1,0 +1,11 @@
+{"api": {
+    "function/method/class library interface": {
+	"shared-memory multiprocessing interface": ["OpenMP", "Pthreads", "CUDA", "OpenCL"]},
+    "network communications interface": {
+	"network sockets": ["WebSockets"],
+	"remote method invocation": ["Java RMI", "CORBA", "DCOM", ".NET", "D-Bus"],
+	"message-passing interface": ["PVM", "MPI", "JMS", "XMPP", "MSMQ", "AMQP", "ActiveMQ", "RabbitMQ", "ZeroMQ", "IronMQ", "EagleMQ", "QPID", "Kafka"],
+	"web services interface": ["XML-RPC", "JSON-RPC", "REST", "SOAP", "Ajax"]
+    }
+  }
+}
