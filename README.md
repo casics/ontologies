@@ -1,7 +1,7 @@
 CASICS ontologies
 ================
 
-<img align="right" src=".graphics/casics-logo-small.png">
+<img width="100px" align="right" src=".graphics/casics-logo-small.svg">
 
 Ontology work for CASICS
 
